@@ -1,0 +1,12 @@
+.alert-heading {
+  font-family: futura;
+  letter-spacing: -4px;
+  word-spacing: -2px;
+  text-decoration: underline;
+  color: #D306DC;
+}
+
+.name {
+  font-family: ibm plex mono;
+}
+
